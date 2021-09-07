@@ -272,3 +272,4 @@ FROM
 		AND deaths.date = vac.date
 WHERE 
 	deaths.continent is not null 
+	
