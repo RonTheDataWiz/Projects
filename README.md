@@ -5,3 +5,4 @@ Tableau, SQL, & R:
 3. [SQL Covid Project](https://github.com/RonTheDataWiz/Projects/blob/main/CovidQuery.sql)
 4. [R Code Google Capstone](https://www.kaggle.com/coldsummer/bellabeat-case-study-moving-with-insights) 
 5. [SQL Nashville Housing Cleaning Project](https://github.com/RonTheDataWiz/Projects/blob/main/NashvilleHouseQuery.sql)
+6. [Tableau Dashboard FDI Case Study Sample](https://public.tableau.com/app/profile/aaron.greene/viz/FDICaseStudyProject_16309478966860/Dashboard1) 
